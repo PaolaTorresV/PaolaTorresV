@@ -1,5 +1,5 @@
 ### Hi there 👋
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+mundoo;Welcomen)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+mundoo;Welcome)](https://git.io/typing-svg)
 
 **PaolaTorresV/PaolaTorresV** is a ✨ _special_ ✨ repository because its about me 
 
@@ -11,3 +11,7 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... the git console scares me
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaolaTorresV&show_icons=true&theme=radical)
