@@ -1,9 +1,7 @@
 ### Hi there 👋
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+mundoo;Welcomen)](https://git.io/typing-svg)
 
-
-**PaolaTorresV/PaolaTorresV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**PaolaTorresV/PaolaTorresV** is a ✨ _special_ ✨ repository because its about me 
 
 - 🔭 I’m currently working on ... Fastkart page
 - 🌱 I’m currently learning ... React
